@@ -1,4 +1,6 @@
-﻿using System;
+// This is an Converter from Celsius to Fahrenheit
+
+using System;
 
 namespace CelciusToFarhenheit
 {
